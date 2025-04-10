@@ -8,6 +8,7 @@ export default function layout({children}) {
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>UCars</title>
+        <meta name="description" content="Prueba Tecnica para OneMax" />
     </head>
         <body>
           <Header/>
