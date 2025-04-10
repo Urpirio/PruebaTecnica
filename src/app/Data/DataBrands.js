@@ -16,4 +16,4 @@ export const DataBrands = [
     {
         Img: Hyundai_Logo
     },
-];
+]

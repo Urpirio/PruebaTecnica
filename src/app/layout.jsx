@@ -1,4 +1,5 @@
 import '@/Style/Global.css';
+import Header from './Components/Header';
 
 export default function layout({children}) {
   return (
@@ -8,7 +9,10 @@ export default function layout({children}) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>UCars</title>
     </head>
-        {children}
+        <body>
+          <Header/>
+          {children}
+        </body>
     </html>
   )
 }

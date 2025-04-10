@@ -5,9 +5,9 @@ export default function Cards() {
 
     const ListCard =  DataCard.map( DC => {
         return(
-            <article className=' flex flex-col border-1 border-gray-200 shadow-xl w-70 rounded-xl z-10' id={DC.id}>
+            <article key={DC.key} className=' flex flex-col border-1 border-gray-200 shadow-xl w-70 rounded-xl z-10' id={DC.id}>
                     <header className=' flex justify-baseline items-baseline-last relative px-2'>
-                        <div>
+                        <div className="w-[100%]">
                             <Image className=' w-[100%] object-cover' src={DC.Image} alt={DC.Modelo} />
                         </div>
                         <div className='flex justify-center items-center absolute border-2 border-white bg-[#EAEAEA] text-[#5B5B5B] font-bold rounded-3xl p-2'>

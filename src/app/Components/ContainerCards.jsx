@@ -1,3 +1,4 @@
+'use client'
 import Cards from "./SubComponents/Cards";
 
 export default function ContainerCards() {
