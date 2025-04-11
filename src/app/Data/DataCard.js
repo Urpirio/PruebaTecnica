@@ -1,11 +1,11 @@
-import HyundaiTucson from '@/../public/Vehicles/Hyundai/HyundaiSantafe1.png';
-import LamboRevuelto from '@/../public/Vehicles/Lambo/LamboRevuelto.png';
+import HyundaiTucson from '@/../public/Vehicles/Hyundai/TucsonHyundai.png';
+import LamboRevuelto from '@/../public/Vehicles/Lambo/RevueltoLAmbo.png';
 import LandCruiser from '@/../public/Vehicles/Toyota/LandCruiser.png';
-import P911 from '@/../public/Vehicles/Porshe/911.png';
-import BMW_M3 from '@/../public/Vehicles/BMW/M3.png';
-import Kia_Sportage from '@/../public/Vehicles/Kia/Sportage.png';
-import Ford_Ranger from '@/../public/Vehicles/Ford/Ranger.png';
-import Toyota_Corolla from '@/../public/Vehicles/Toyota/Corolla.png';
+import P911 from '@/../public/Vehicles/Porshe/Porshe911.png';
+import BMW_M3 from '@/../public/Vehicles/BMW/BmwM3.png';
+import Kia_Sportage from '@/../public/Vehicles/Kia/Sportage-min (1).png';
+import Ford_Ranger from '@/../public/Vehicles/Ford/Ranger-min.png';
+import Toyota_Corolla from '@/../public/Vehicles/Toyota/Corolla-min.png';
 // import Honda_Civic  from '@/../public/Vehicles/Honda/Civic.png';
 // import Chevrolet_Camaro from '@/../public/Vehicles/Chevrolet/Camaro.png';
 import { FaStar } from "react-icons/fa";

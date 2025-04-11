@@ -1,5 +1,5 @@
 import { DataCard } from "@/app/Data/DataCard";
-import Image from 'next/image';
+import Image from "next/image";
 
 export default function Cards() {
 
@@ -8,7 +8,7 @@ export default function Cards() {
             <article key={DC.key} className=' flex flex-col border-1 border-gray-200 shadow-xl w-70 rounded-xl z-10' id={DC.id}>
                     <header className=' flex justify-baseline items-baseline-last relative px-2'>
                         <div className="w-[100%]">
-                            <Image className=' w-[100%] object-cover' src={DC.Image} alt={DC.Modelo} />
+                            <Image className='w-[100%] object-cover' src={DC.Image} alt={DC.Modelo} />
                         </div>
                         <div className='flex justify-center items-center absolute border-2 border-white bg-[#EAEAEA] text-[#5B5B5B] font-bold rounded-3xl p-2'>
                             <span className=' text-[16px] rounded-2xl '>{DC.price}</span>
