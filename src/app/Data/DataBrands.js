@@ -1,7 +1,7 @@
-import ToyotaLogo  from '@/../public/Marcas logo/Toyota-logo.png';
-import Lamborghini from '@/../public/Marcas logo/lamborghini-wordmark6335.logowik.com.webp';
-import BMWLogo from '@/../public/Marcas logo/BMW-Logo-1963.png';
-import Hyundai_Logo from  '@/../public/Marcas logo/logo-Hyundai.png';
+import ToyotaLogo  from '@/../public/Marcas logo/Toyota-logo.webp';
+import Lamborghini from '@/../public/Marcas logo/lamborghini-wordmark6335.webp';
+import BMWLogo from '@/../public/Marcas logo/BMW-Logo-1963.webp';
+import Hyundai_Logo from  '@/../public/Marcas logo/logo-Hyundai.webp';
 
 export const DataBrands = [
     {
